@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+* {
+    font-family: 'ubuntu', sans-serif;
+    text-decoration: none;
+}
+#box {
+    height: 375px;
+    width: 30%;
+    background-image: url("https://masai-website-images.s3.ap-south-1.amazonaws.com/prateek_6232b84d8b.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border: 1px solid;
+    border-radius: 25px;
+    display: inline-block;
+    margin: 15px;
+    position: relative;
+}
+
+#box2 {
+    height: 375px;
+    width: 30%;
+    background-image: url("https://masai-website-images.s3.ap-south-1.amazonaws.com/Nrupul_d3fe3b289a.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid;
+    border-radius: 25px;
+    display: inline-block;
+    margin: 15px;
+    position: relative;
+}
+
+#box3 {
+    height: 375px;
+    width: 30%;
+    background-image: url("https://masai-website-images.s3.ap-south-1.amazonaws.com/Yogesh_52e31f5560.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid;
+    border-radius: 25px;
+    display: inline-block;
+    margin: 15px;
+    position: relative;
+}
+
+#name {
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    display: inline-block; 
+    position: absolute;
+    top: 67%;              
+    left: 40%;
+}
+
+#position {
+    font-size: 18px;
+    color: white;
+    position: absolute;
+    top: 75%;              
+    left: 35%;
+}
+
+p {
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    display: inline-block; 
+    position: absolute;
+    top: 83%;              
+    left: 31%; 
+}
+
+.fa-brands {
+    display: inline-block; 
+    position: absolute;
+    top: 90%;              
+    left: 50%;
+}
+
+#box4 {
+    height: 375px;
+    width: 30%;
+    background-image: url("https://masai-website-images.s3.ap-south-1.amazonaws.com/keshav_misra_203a893693.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid;
+    border-radius: 25px;
+    display: inline-block;
+    margin: 15px;
+    position: relative;
+}
+
+#box5 {
+    height: 375px;
+    width: 30%;
+    background-image: url("https://masai-website-images.s3.ap-south-1.amazonaws.com/1614198786109_Ishita_Chanana_d3d8c56ab0.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid;
+    border-radius: 25px;
+    display: inline-block;
+    margin: 15px;
+    position: relative;
+}
+
+#box6 {
+    height: 375px;
+    width: 30%;
+    background-image: url("https://masai-website-images.s3.ap-south-1.amazonaws.com/amit_saharan_copy_Amit_Kumar_0650e4da7d.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid;
+    border-radius: 25px;
+    display: inline-block;
+    margin: 15px;
+    position: relative;
+}
+
+#box7 {
+    height: 375px;
+    width: 30%;
+    background-image: url("https://masai-website-images.s3.ap-south-1.amazonaws.com/aman_fbbc8625a4.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid;
+    border-radius: 25px;
+    display: inline-block;
+    margin: 15px;
+    position: relative;
+}
+
+#box8 {
+    height: 375px;
+    width: 30%;
+    background-image: url("https://masai-website-images.s3.ap-south-1.amazonaws.com/Anurag_Singh_996e7426ac.JPG");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid;
+    border-radius: 25px;
+    display: inline-block;
+    margin: 15px;
+    position: relative;
+}
+
+#box9 {
+    height: 375px;
+    width: 30%;
+    background-image: url("https://masai-website-images.s3.ap-south-1.amazonaws.com/Rohit_Gupta_23dba08fbe.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid;
+    border-radius: 25px;
+    display: inline-block;
+    margin: 15px;
+    position: relative;
+}
